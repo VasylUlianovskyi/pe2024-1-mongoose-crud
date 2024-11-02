@@ -1,0 +1,10 @@
+### 200
+GET http://localhost:5000/api/users/672647393863e8114b015674
+
+
+### 404 
+GET http://localhost:5000/api/users/672642f65280936e5ee68321
+
+
+### 500 (422)
+GET http://localhost:5000/api/users/1
